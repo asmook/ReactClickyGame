@@ -1,0 +1,57 @@
+.card {
+    background: black;
+    border-radius: 2px;
+    height: 200px;
+    margin: 1rem;
+    position: relative;
+    width: 200px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align: left;
+    float: right;
+    margin-right: 50px;
+  }
+
+  img {
+    height: 200px;
+    width: 200px;
+  }
+
+  .jumbotron {
+    background-image: url(https://images5.alphacoders.com/409/409900.jpg);
+    background-size: cover;
+    background-position: 0% 25%;
+  }
+
+  #jumboHeader {
+    color: white;
+    font-weight: 900;
+  }
+
+  #jumboSent {
+    color: white;
+    font-weight: 900;
+  }
+
+  .card:hover {
+    box-shadow: 10px 20px 20px black;
+  }
+
+  .nav-item {
+    font-weight: 900;
+  }
+
+  .navbrand {
+    font-weight: 900;
+  }
+
+  .footer {
+    margin-top: 50%;
+  }
+
+  * {
+    font-family: 'Berkshire Swash', cursive;
+  }
+
+  nav {
+    box-shadow: 0 3px 6px #999
+  }

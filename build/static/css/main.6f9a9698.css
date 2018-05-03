@@ -1,0 +1,22 @@
+.card{
+	background:#000;
+	border-radius:2px;
+	margin:1rem;
+	position:relative;
+	-webkit-box-shadow:0 3px 6px #999,0 3px 6px #999;
+	box-shadow:0 3px 6px #999,0 3px 6px #999;
+	text-align:left;float:right;margin-right:50px
+	}
+.card,img{
+		height:200px;width:200px
+		}
+.jumbotron{
+			background-image:url(https://i.pinimg.com/originals/0e/3e/b4/0e3eb47255d8b921010d94f77780b7dd.jpg);
+			background-size:cover;background-position:0 25%
+			}
+#jumboHeader{color:#000}
+#jumboHeader,#jumboSent{font-weight:900}
+.card:hover{-webkit-box-shadow:10px 20px 20px #000;box-shadow:10px 20px 20px #000}
+.nav-item,.navbrand{font-weight:900}
+.footer{margin-top:50%}*{font-family:Lobster,cursive}nav{-webkit-box-shadow:0 3px 6px #999;box-shadow:0 3px 6px #999}
+/*# sourceMappingURL=main.6f9a9698.css.map*/
